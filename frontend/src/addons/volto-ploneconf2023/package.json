@@ -48,12 +48,14 @@
     "@eeacms/volto-accordion-block",
     "@kitconcept/volto-slider-block",
     "@eeacms/volto-matomo",
-    "@plonegovbr/volto-code-block"
+    "@plonegovbr/volto-code-block",
+    "@plone-collective/volto-authomatic"
   ],
   "dependencies": {
     "@eeacms/volto-accordion-block": "*",
     "@eeacms/volto-matomo": "*",
     "@kitconcept/volto-slider-block": "*",
+    "@plone-collective/volto-authomatic": "*",
     "@plonegovbr/volto-code-block": "*"
   }
 }
