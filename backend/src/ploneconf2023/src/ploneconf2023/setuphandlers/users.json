@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "nguyen@plone.org",
+      "properties": {
+        "fullname": "Plone Conference Training",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "ploneconf2023"
+    }
+  ],
+    "team": [
+  ]
+}
